@@ -1,6 +1,7 @@
-# **taxi-service** :oncoming_taxi: 
+# :oncoming_taxi: **taxi-service** :oncoming_taxi: 
 <br/>**Project description:**
 <br/>A simple web-application that supports authentication, registration and other CRUD operations
+<br/>
 <br/>**Features:**
 <br/>:arrow_forward: registration like a driver
 <br/>:arrow_forward: authentication like a driver
