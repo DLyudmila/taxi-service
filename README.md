@@ -1,6 +1,6 @@
 # :oncoming_taxi: **taxi-service** :oncoming_taxi: 
 <br/>**Project description:**
-<br/>A simple web-application that supports authentication, registration and other CRUD operations
+<br/>The taxi-service application will help you to store data about drivers, cars and manufacturers in the database and display the information in a comfortable way. This application allows you to register a new user(driver), it provides user's authentication and access to different CRUD operations. You may create relations between manufacturers and cars, cars and drivers.
 <br/>
 <br/>**Features:**
 <br/>:arrow_forward: registration like a driver
@@ -13,12 +13,17 @@
 <br/>:arrow_forward: display all cars/drivers/manufacturers
 <br/>
 <br/>**Technologies that were used in the project:**
-<br/>- Intellij IDEA Ultimate 2022.1.2
-<br/>- MySql Workbench 8.0 CE
-<br/>- TomCat 9.0.63
+<br/>- JDBC, 
+<br/>- Servlet, 
+<br/>- JSTL, 
+<br/>- JSP, 
+<br/>- HTML, 
+<br/>- CSS,
+<br/>- MySql Workbench 8.0 CE,
+<br/>- TomCat 9.0.63,
 <br/>
 <br/>:eyes: **How to launch the project:**
 <br/>- To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench
-<br/>- Check that you use Intellij IDEA Ultimate edition
+<br/>- Establish connection to your Database. Open ConnectionUtil class and write appropriate URL, USERNAME, PASSWORD and JDBC_DRIVER.  
 <br/>- Let's install Tomcat 9.0.63
 <br/>- Run the project using configuration TomCat local server. Choose artifact: taxi-service: war exploded. (**Important!** Change the url in application context to "/") 
