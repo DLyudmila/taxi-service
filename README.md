@@ -25,5 +25,5 @@
 <br/>:eyes: **How to launch the project:**
 <br/>- To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench
 <br/>- Establish connection to your Database. Open ConnectionUtil class and write appropriate URL, USERNAME, PASSWORD and JDBC_DRIVER.  
-<br/>- Let's install Tomcat 9.0.63
+- Let's install Tomcat 9.0.63
 <br/>- Run the project using configuration TomCat local server. Choose artifact: taxi-service: war exploded. (**Important!** Change the url in application context to "/") 
