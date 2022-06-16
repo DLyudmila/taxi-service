@@ -21,6 +21,7 @@
 <br/>- CSS,
 <br/>- MySql Workbench 8.0 CE,
 <br/>- TomCat 9.0.63,
+<br/>- Logger log4j
 <br/>
 <br/>:eyes: **How to launch the project:**
 - To get the actual parameters of the database tables, run script from the resources/init_db.sql file in the Workbench
