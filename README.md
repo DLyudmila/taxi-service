@@ -1,6 +1,6 @@
 # :oncoming_taxi: **“Taxi Service”** :oncoming_taxi: 
 <br/>**Project description:**
-<br/>The taxi-service application will help you to store data about drivers, cars and manufacturers in the database and display the information in a comfortable way. This application allows you to register a new user(driver), it provides user's authentication and access to different CRUD operations. You may create relations between manufacturers and cars, cars and drivers.
+<br/>The “Taxi Service” application will help you to store data about drivers, cars and manufacturers in the database and display the information in a comfortable way. This application allows you to register a new user(driver), it provides user's authentication and access to different CRUD operations. You may create relations between manufacturers and cars, cars and drivers.
 <br/>
 <br/>**Features:**
 <br/>:arrow_forward: registration like a driver
